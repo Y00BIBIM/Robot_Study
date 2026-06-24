@@ -1,0 +1,24 @@
+[2026-06-19 / Linux basic command study]
+
+1. today learned command
+- pwd : Print Working Directory
+- ls : folder list
+- cd : current folder?
+- mkdir : make directory
+- touch : make file
+- cp : copy file
+- mv : move folder or change folder name
+- rm : remove file(rm -r => remove folder)
+- cat : concatenate => view info
+- nano : modify file(especially .txt)
+- sudo apt update : super do update
+- sudo apt install : super do install
+
+2. today summerize
+- in linux, we use terminal for move folder, make directory, install package
+- sudo is administrator rights, so i should careful when use sudo command
+- rm remove file absolutely, so need to use this command safely
+
+3. today difficult
+- nothing speical
+

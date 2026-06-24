@@ -1,0 +1,47 @@
+[2026-06-20 Python 문법 복습]
+
+1. Python 실행
+- python3 파일명.py
+
+2. 기본 자료형
+- str: 문자열
+- int: 정수
+- float: 실수
+- bool: 참/거짓
+
+3. 자료구조
+- list: 순서가 있는 값 목록
+- dict: key-value 구조, JSON과 유사
+
+4. 조건문
+- if / elif / else
+- 로봇 상태, 배터리, 명령 판단에 사용
+
+5. 반복문
+- for: 리스트 순회
+- while: 조건이 참인 동안 반복
+- 센서값 처리, 명령 처리, 주기적 상태 갱신에 사용
+
+6. 함수
+- def 함수명():
+- 기능을 작은 단위로 나누기 위해 사용
+
+7. 클래스
+- class Robot:
+- 로봇의 상태와 동작을 하나의 객체로 묶기 위해 사용
+
+8. 예외 처리
+- try / except
+- 잘못된 명령, 네트워크 오류, DB 오류 처리에 사용
+
+9. main 구조
+- if __name__ == "__main__":
+- 파일을 직접 실행할 때만 main() 실행
+
+10. 오늘 만든 결과물
+- basic_python.py
+- robot_status.py
+- robot_class.py
+- error_handling.py
+- robot_main.py
+- day02_mission_robot.py

@@ -1,0 +1,8 @@
+{
+    "robot_id": "robot_01",
+    "x": 1.0,
+    "y": 1.0,
+    "battery": 99.2,
+    "status": "turning_left",
+    "timestamp": "2026-06-24T16:05:41.231059"
+}

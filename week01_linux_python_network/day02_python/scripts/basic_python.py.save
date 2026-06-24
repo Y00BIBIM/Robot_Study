@@ -1,0 +1,10 @@
+robot_name = "mobile_robot_01"
+battery = 87.5
+is_moving = False
+position_x = 1.2
+position_y = 3.4
+
+
+print("Robot Name : ", robot_name)
+print("Battery : ", battery)
+print("Robot Name : ", robot_name)
