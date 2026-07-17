@@ -21,6 +21,8 @@ string status
 
 ROS의 float64 타입은 Unity C#에서 double 타입으로 생성된다.
 
+
+
 학습 내용
 -Unity의 ROS-TCP-Connector를 사용하여 /robot/state 토픽 구독
 
@@ -55,6 +57,8 @@ RobotStateUI.cs
         ↓
         
 Unity UI 갱신
+
+
 주요 코드 역할
 
 RobotStateSubscriber.cs는 ROS 메시지를 수신하고 다음 값을 저장한다.
